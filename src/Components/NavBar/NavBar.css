@@ -1,0 +1,22 @@
+.nav-bar {
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgba(241, 122, 25, 0.863);
+    margin: 10px;
+}
+.nav-buttons {
+    padding: 10px 5px;
+    margin: 5px;
+}
+.nav-button {
+    background-color: rgba(245, 136, 47, 0.863);
+    border: none;
+    width: 180px;
+    &&:hover {
+        cursor: pointer;
+    }
+}
+.logo {
+    height: 50px;
+}

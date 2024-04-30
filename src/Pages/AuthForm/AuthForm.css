@@ -1,0 +1,48 @@
+.auth-container{
+    background-color: rgba(241, 122, 25, 0.863);
+    width: 50%;
+    height: 50vh;
+    margin: auto;
+    margin-top: 150px;
+    margin-bottom: 100px;
+    padding: 10px 10px;
+    &&.auth-container a{
+        display: flex;
+        justify-content: center;
+    }
+}
+.auth-h1{
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+.user-input{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    &&.user-input .user-container{
+        padding: 10px 0px;
+        border: 2px solid black;
+        width: 500px;
+    }
+}
+.passwrd-input{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    &&.passwrd-input .passwrd-container{
+        padding: 10px 0px;
+        border: 2px solid black;
+        width: 500px;
+    }
+}
+.auth-btn{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    padding-top: 20px;
+    &&.auth-btn button{
+        width: 250px;
+        padding: 10px 0px;
+    }
+}

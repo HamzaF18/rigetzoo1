@@ -1,0 +1,73 @@
+.section{
+    margin-bottom: 100px;
+    background-color: rgba(241, 122, 25, 0.863);
+}
+.education-h1{
+    margin: 50px 0px;
+    text-align: center;
+}
+.educ-btn{
+    width: 50%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    &&.educ-btn button{
+        width: 250px;
+        height: 40px;
+        background-color: rgb(238, 164, 28);
+        border: none;
+    }
+}
+.education-content{
+    width:fit-content;
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 50px;
+    padding: 20px 35px;
+    background-color: rgba(224, 134, 15, 0.863);
+}
+.educational-txt{
+    text-align: center;
+    margin-top: 300px;
+}
+.educ-container{
+    display: flex;
+    justify-content: center;
+    flex: 3;
+    height: 200px;
+    gap: 20px;
+    margin-bottom: 200px;
+
+}
+.educ-container2{
+    display: flex;
+    justify-content: center;
+    flex: 3;
+    height: 200px;
+    gap: 20px;
+    margin-bottom: 200px;
+}
+.educ-container-1{
+    flex: 1;
+    background-color: rgba(224, 134, 15, 0.863);
+}
+.educ-container-2{
+    flex: 1;
+    background-color: rgba(224, 134, 15, 0.863);
+}
+.educ-container-3{
+    flex: 1;
+    background-color: rgba(224, 134, 15, 0.863);
+}
+.educ-container-4{
+    flex: 1;
+    background-color: rgba(224, 134, 15, 0.863);
+}
+.educ-container-5{
+    flex: 1;
+    background-color: rgba(224, 134, 15, 0.863);
+}
+.educ-container-6{
+    flex: 1;
+    background-color: rgba(224, 134, 15, 0.863);
+}

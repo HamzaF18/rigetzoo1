@@ -1,0 +1,10 @@
+.about-page{
+    margin: 50px 0px;
+    &&.about-page h1{
+        text-align: center;
+    }
+}
+.about-content{
+    width: fit-content;
+    margin-bottom: 150px;
+}

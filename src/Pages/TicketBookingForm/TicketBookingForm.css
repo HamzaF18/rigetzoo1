@@ -1,0 +1,11 @@
+.ticket-h1{
+    text-align: center;
+}
+.ticket-form{
+    border: 1px solid black;
+    display:flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin: 20px;
+    background-color: rgb(221, 151, 21);
+}

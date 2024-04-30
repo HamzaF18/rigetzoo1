@@ -1,0 +1,70 @@
+.animal-txt{
+    text-align: center;
+    margin-top: 70px;
+}
+.animal-1{
+    display: flex;
+    border: 1px solid black;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 40px;
+    background-color: orange;
+    &&.animal-1 img{
+        width: 300px;
+    }
+}
+.animal-2{
+    display: flex;
+    border: 1px solid black;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 40px;
+    background-color: orange;
+    &&.animal-2 img{
+        width: 300px;
+    }
+}
+.animal-3{
+    display: flex;
+    border: 1px solid black;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 40px;
+    background-color: orange;
+    &&.animal-3 img{
+        width: 300px;
+    }
+}
+.animal-4{
+    display: flex;
+    border: 1px solid black;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 40px;
+    background-color: orange;
+    &&.animal-4 img{
+        width: 300px;
+    }
+}
+.animal-5{
+    display: flex;
+    border: 1px solid black;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 40px;
+    background-color: orange;
+    &&.animal-5 img{
+        width: 300px;
+    }
+}
+.animal-6{
+    display: flex;
+    border: 1px solid black;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 40px;
+    background-color: orange;
+    &&.animal-6 img{
+        width: 300px;
+    }
+}

@@ -1,0 +1,17 @@
+.sitemap {
+    border: 1px solid black;
+    height: 17rem;
+    background-color: rgba(241, 122, 25, 0.863);
+    text-align: center;
+}
+.site-btns{
+    display: flex;
+    justify-content:center;
+    flex-direction: column;
+    padding: 20px;
+    &&.site-btns button{
+        width: 50%;
+        margin: 0 auto;
+        background-color: rgba(241, 122, 25, 0.863);
+    }
+}

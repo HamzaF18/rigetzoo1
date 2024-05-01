@@ -1,9 +1,9 @@
 import "./Home.css";
 import { useNavigate } from "react-router-dom";
-import lion from "E:/PRE-RELEASE/task2work/rigetzoo1/src/Assets/lion2.jpg"
-import image8 from "E:/PRE-RELEASE/task2work/rigetzoo1/src/Assets/website.jpg";
-import image9 from "E:/PRE-RELEASE/task2work/rigetzoo1/src/Assets/rare.jpg"
-import image10 from "E:/PRE-RELEASE/task2work/rigetzoo1/src/Assets/treasure.jpg"
+import lion from "../../../src/Assets/lion2.jpg"
+import image8 from "../../../src/Assets/website.jpg";
+import image9 from "../../../src/Assets/rare.jpg"
+import image10 from "../../../src/Assets/treasure.jpg"
 
 
 const HomeButton = ({ text, path }) => {

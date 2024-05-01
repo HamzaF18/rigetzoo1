@@ -1,10 +1,10 @@
 import "./Animals.css"
-import image1 from "E:/PRE-RELEASE/task2work/rigetzoo1/src/Assets/african wild dog.jpg"
-import image2 from "E:/PRE-RELEASE/task2work/rigetzoo1/src/Assets/baboon.jpg"
-import image3 from "E:/PRE-RELEASE/task2work/rigetzoo1/src/Assets/elephant.jpg"
-import image4 from "E:/PRE-RELEASE/task2work/rigetzoo1/src/Assets/gervey's zebra.jpg"
-import image5 from "E:/PRE-RELEASE/task2work/rigetzoo1/src/Assets/hippo.jpg"
-import image6 from "E:/PRE-RELEASE/task2work/rigetzoo1/src/Assets/lion3.jpg"
+import image1 from "../../../src/Assets/african wild dog.jpg"
+import image2 from "../../../src/Assets/baboon.jpg"
+import image3 from "../../../src/Assets/elephant.jpg"
+import image4 from "../../../src/Assets/gervey's zebra.jpg"
+import image5 from "../../../src/Assets/hippo.jpg"
+import image6 from "../../../src/Assets/lion3.jpg"
 
 const Animals = () => {
 

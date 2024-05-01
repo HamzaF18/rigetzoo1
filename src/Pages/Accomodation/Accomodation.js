@@ -1,6 +1,6 @@
 import "./Accomodation.css";
-import bed from "E:/PRE-RELEASE/task2work/rigetzoo1/src/Assets/bed.jpg"
-import food from "E:/PRE-RELEASE/task2work/rigetzoo1/src/Assets/breakfast.jpg"
+import bed from "../../../src/Assets/bed.jpg"
+import food from "../../../src/Assets/breakfast.jpg"
 
 
 const Accomodation = () => {

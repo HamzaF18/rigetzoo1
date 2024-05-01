@@ -1,6 +1,6 @@
 import "./NavBar.css"
 import { useNavigate } from "react-router-dom";
-import logo from "E:/PRE-RELEASE/task2work/rigetzoo1/src/Assets/lion.png"
+import logo from "../../../src/Assets/lion.png"
 
 
 
